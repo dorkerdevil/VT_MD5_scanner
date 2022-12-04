@@ -24,3 +24,4 @@ python3 vhash_scanner.py /path/to/directory > something.hml
 
 ## Credits
 • [D0rkerDevil](https://twitter.com/D0rkerDevil)
+• [OpenAI](https://twitter.com/OpenAI)
