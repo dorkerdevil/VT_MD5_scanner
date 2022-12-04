@@ -94,5 +94,5 @@ if __name__ == "__main__":
             file_md5 = sys.argv[2]
             print(scan_file(file_md5))
     else:
-        print("Usage: python scan_directory.py [-f] [directory or file MD5 hash]")
+        print("Usage: python vhash_scanner.py [-f] [directory or file MD5 hash]")
 
