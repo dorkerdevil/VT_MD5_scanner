@@ -37,7 +37,7 @@ def update_html(filenames: list[str], md5_hashes: list[str]) -> str:
     updated_html = []
     
     # Open the HTML template file and read the lines
-    with open("template.html", "r") as html_file:
+    with open("Found.html", "r") as html_file:
         lines = html_file.readlines()
     
     # Loop through the lines in the HTML file
