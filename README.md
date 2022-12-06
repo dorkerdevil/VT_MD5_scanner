@@ -2,7 +2,7 @@
 virustotal hash scanner - Public 
 
 ## About -
-This Script is created to scan system and extracts md5 hash and match using virustotal api to identify weather the file is malicious or not.
+This Script is created to scan system and extracts md5 hash and match using virustotal api to identify whether the file is malicious or not.
 
 ## Requirements 
 ```bash
